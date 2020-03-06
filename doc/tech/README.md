@@ -23,7 +23,6 @@
 * [Reference Implementation](../ref_impl)
 * [Reference Conformance](../ref_cert)
 
-
 <a name="1.0"></a>
 # 1. Overview
 
@@ -160,7 +159,7 @@ More use cases to pull in:  https://docs.openstack.org/arch-design/use-cases.htm
 # 6. Roadmap and Releases
 
 * [CNTT Releases](./release_notes)
-* [CNTT Roadmap](./release_notes/release_process.md#roadmap)
+* [CNTT Roadmap](./roadmap.md#2)
 
 <a name="7.0"></a>
 # 7. CNTT Technical Policies and Transition Plan
